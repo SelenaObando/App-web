@@ -1,0 +1,28 @@
+
+.encabezado-title {
+    font-family: 'Mansalva', cursive;
+}
+
+pie{
+    display: inline-block;
+    width: 100%;
+    
+    margin: auto;
+   height: 100px;
+   padding: auto;
+
+}
+
+a{
+    margin: 20px;
+}
+article{
+    
+
+}
+article img
+{
+    display: block;
+    position: relative;
+    left: 400PX;
+}
